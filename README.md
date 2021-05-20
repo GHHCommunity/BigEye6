@@ -31,7 +31,7 @@
 
 📌 If any error occurs, feel free to contact the developer.
 
-🔗 Facebook Profile Link of **[R00tDev1l](https://www.facebook.com/indra.das.11267)**
+🔗 Developer's Mail ==>>>> indradas4863@gmail.com**
 
 
 **=/= The Tool Contains =/=**
