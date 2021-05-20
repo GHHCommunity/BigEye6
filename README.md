@@ -25,7 +25,7 @@
 
 **==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==**
 
-🔐 Command To Run The Tool ==>>> **python3 bigeye6.py**
+🔐 Command To Run The Tool ==>>> **python3 bigEye6.py**
 
 
 
