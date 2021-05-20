@@ -22,7 +22,8 @@
 
 🎭 After the setup completes, use it in your way. 🎭
 
-**==/==**
+
+**==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==**
 
 🔐 Command To Run The Tool ==>>> **python3 bigeye6.py**
 
