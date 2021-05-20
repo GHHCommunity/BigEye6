@@ -35,10 +35,10 @@
 
 =/= The Tool Contains =/=
 
-1.Link grabber
-2.DNS Map
-3.IP scan
-4.Who is domain Scan
+1.Link grabber\
+2.DNS Map\
+3.IP scan\
+4.Who is domain Scan\
 5.Robot Txt Scan
 6.Website Whatweb
 7.HTTP Header Grabber
@@ -58,6 +58,6 @@
 21.Cloudflare Bypass Scan
 22.Email address Checker
 
-**And Many More...⚡
+**And Many More...⚡**
 
-H4ppY H4cking❣**
+**H4ppY H4cking❣**
