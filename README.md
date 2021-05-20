@@ -18,9 +18,9 @@
 
 🎯3. After executing the tool you have to setup the tool before you use it.
 
-🎯4. To run the setup file choose the option number 23 from the category box. In order to do so type **23** and hit **Enter**.
+🎯4. To run the setup file choose option number 23 from the category box. In order to do so type **23** and hit **Enter**.
 
-🎭 After the setup completes, use it in your way. 🎭
+🎭 After the set up completes, use it in your way. 🎭
 
 
 **==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==/==**
