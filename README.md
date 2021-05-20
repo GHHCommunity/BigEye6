@@ -7,14 +7,14 @@
 🔐 Username & Password has been given on the "[Username & Pass.txt](https://raw.githubusercontent.com/GHHCommunity/BigEye6/main/Username%20%26%20Pass.txt)" file 🗝\
 📝⚠ You must have python3 installed in your device ⚠📝
 
-⚡**Installing steps==>>>**
-🎯 1.**pip install -r requirements.txt**
+⚡**Installing steps==>>>**\
+🎯 1.**pip install -r requirements.txt**\
 
 📝 Note: _If your linux version is 2021.1 or higher, then you have to install  requirements1.txt instead of requirements.txt._
 
 **==/==**
 
-🎯 2.  Then Type ==>>> **python3 bigeye6.py**
+🎯 2.  Then Type ==>>> **python3 bigeye6.py**\
 
 📝 Note: Must run it as a **root** user & you must have pip3 and pip commands installed in your system.
 
