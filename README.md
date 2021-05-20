@@ -46,7 +46,7 @@
 9. ClickJacking Test
 10. Website Admin Panel Finder
 11. IP MAC Network Mask Broadcast
-12. Spoofing Tool (Email Spoofing using SMTP)
+12. Spoofing Tool (E-mail Spoofing using SMTP ::: Must have [SMTP Active Account](https://app.smtp2go.com/login/) in order to do E-mail spoofing)
 13. Nmap Cheatsheet
 14. Open Source Tools (Includes Multiple Other Tools)
 15. Password Tools (Hash)
