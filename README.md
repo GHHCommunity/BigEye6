@@ -33,7 +33,7 @@
 🔗 Facebook Profile Link of **[R00tDev1l](https://www.facebook.com/indra.das.11267)**
 
 
-=/= The Tool Contains =/=
+**=/= The Tool Contains =/=**
 
 1.Link grabber\
 2.DNS Map\
@@ -56,8 +56,12 @@
 19.Suddomain Scanner\
 20.Website IP Detector\
 21.Cloudflare Bypass Scan\
-22.Email address Checker\
+22.Email address Checker
 
 **And Many More...⚡**
+
+Join Our Telegram Channel ==>>> https://t.me/GHHCommunity
+
+**All Rights Reserved to [GHHC](https://www.facebook.com/GHH.Community) © 2021**
 
 **H4ppY H4cking❣**
