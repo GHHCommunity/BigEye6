@@ -36,14 +36,14 @@
 
 **=/= The Tool Contains =/=**
 
-1. Link grabber\
-2. DNS Map\
-3. IP scan\
-4. Who is domain Scan\
-5. Robot Txt Scan\
-6. Website Whatweb\
-7. HTTP Header Grabber\
-8. DNS Recon\
+1. Link grabber/
+2. DNS Map/
+3. IP scan/
+4. Who is domain Scan/
+5. Robot Txt Scan/
+6. Website Whatweb/
+7. HTTP Header Grabber/
+8. DNS Recon/
 9. ClickJacking Test\
 10. Website Admin Panel Finder\
 11. IP MAC Network Mask Broadcast\
