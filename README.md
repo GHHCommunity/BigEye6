@@ -31,7 +31,7 @@
 
 📌 If any error occurs, feel free to contact the developer.
 
-🔗 Developer's Mail ==>>>> indradas4863@gmail.com**
+**🔗 Developer's Mail ==>>>> indradas4863@gmail.com**
 
 
 **=/= The Tool Contains =/=**
