@@ -1,7 +1,7 @@
 ![BigEye6](https://user-images.githubusercontent.com/80751079/118937359-45e3d680-b96f-11eb-9414-8c282625dc66.png)
 # BigEye6
 
-**🎭[BigEye6](https://github.com/GHHCommunity/BigEye6) is a Web Penetration Testing toolkit along with having some extra features and tools. It has more than 22 tools. Which has been developed by R00tDev1l of [GHHC](https://www.facebook.com/GHH.Community) &amp; the modules are developed/given by **[k0w581k](https://www.facebook.com/kurais.kowshik.562)**.👨‍💻**
+**🎭[BigEye6](https://github.com/GHHCommunity/BigEye6) is a Web Penetration Testing toolkit along with having some extra features and tools. It has more than 22 tools. Which has been developed by [R00tDev1l](https://www.facebook.com/indra.das.11267) of [GHHC](https://www.facebook.com/GHH.Community) &amp; the modules are developed/given by **[k0w581k](https://www.facebook.com/kurais.kowshik.562)**.👨‍💻**
 
 
 🔐 Username & Password has been given on the "[Username & Pass.txt](https://raw.githubusercontent.com/GHHCommunity/BigEye6/main/Username%20%26%20Pass.txt)" file 🗝\
