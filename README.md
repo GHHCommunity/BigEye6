@@ -30,7 +30,7 @@
 
 📌 If any error occurs, feel free to contact the developer.
 
-🔗 Facebook Profile Link of **R00tDev1l** ==>>> **https://www.facebook.com/indra.das.11267**
+🔗 Facebook Profile Link of **[R00tDev1l](https://www.facebook.com/indra.das.11267)**
 
 
 =/= The Tool Contains =/=
@@ -39,24 +39,24 @@
 2.DNS Map\
 3.IP scan\
 4.Who is domain Scan\
-5.Robot Txt Scan
-6.Website Whatweb
-7.HTTP Header Grabber
-8.DNS Recon
-9.ClickJacking Test
-10.Website Admin Panel Finder
-11.IP MAC Network Mask Brodcast
-12.Spoofing Tool (Email Spoofing using SMTP)
-13.Nmap Cheetsheet
-14.Open Soure Tools (Includes Multiple Other Tools)
-15.Password Tools (Hash)
-16.Website Attack Tools (Includes Multiple Attack Tools like REDHAWK)
-17.Exploitaion Tools (Exploits)
-18.Website Information Gathering
-19.Suddomain Scanner
-20.Website IP Detector
-21.Cloudflare Bypass Scan
-22.Email address Checker
+5.Robot Txt Scan\
+6.Website Whatweb\
+7.HTTP Header Grabber\
+8.DNS Recon\
+9.ClickJacking Test\
+10.Website Admin Panel Finder\
+11.IP MAC Network Mask Brodcast\
+12.Spoofing Tool (Email Spoofing using SMTP)\
+13.Nmap Cheetsheet\
+14.Open Soure Tools (Includes Multiple Other Tools)\
+15.Password Tools (Hash)\
+16.Website Attack Tools (Includes Multiple Attack Tools like REDHAWK)\
+17.Exploitaion Tools (Exploits)\
+18.Website Information Gathering\
+19.Suddomain Scanner\
+20.Website IP Detector\
+21.Cloudflare Bypass Scan\
+22.Email address Checker\
 
 **And Many More...⚡**
 
